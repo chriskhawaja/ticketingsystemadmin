@@ -37,6 +37,7 @@
 - Configuring Help Topics
   - Admin Panel -> Manage -> Help Topics
   - We will create Help Topics for Business Critical Outages, Password Resets, Equipments Requests, and Personal Computer Issues
+    
 ![image](https://github.com/chriskhawaja/ticketingsystem/assets/153021794/dc390088-6bd5-426d-a223-7d9260a42ee8)
 
 - Practice Help Desk Ticket
